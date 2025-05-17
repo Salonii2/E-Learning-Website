@@ -1,12 +1,14 @@
-🌟 EduVista – E-Learning Website:-
+## 🌟 EduVista – E-Learning Website:-
 EduVista is a modern and responsive front-end project that simulates an online learning platform. Designed and developed by Saloni Sharma, this project aims to demonstrate core front-end development skills, including layout design, responsive UI, and interactive user experience using HTML, CSS, and basic JavaScript.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🔍 Project Overview:-
+## 🔍 Project Overview:-
 EduVista replicates the structure and functionality of real-world educational platforms like Coursera, Udemy, or Khan Academy. It features multiple pages such as a course listing, playlists, login/register system (frontend only), user profiles, and video playback sections. The focus of this project is on the user interface and experience (UI/UX).
 
-✨ Key Features:-
-Feature	Description
+
+## ✨ Key Features:-
+# Feature	Description
 🏠 Home Page	Welcoming landing page with site overview and navigation options.
 📚 Courses Page	Displays a catalog of available courses with basic information.
 📺 Watch Video	Page dedicated to displaying video lessons for selected topics.
@@ -16,14 +18,14 @@ Feature	Description
 📨 Contact Page	Allows users to submit messages or inquiries (form only, no backend).
 ℹ️ About Page	Describes the mission and purpose of EduVista.
 
-🛠️ Technologies Used:-
+## 🛠️ Technologies Used:-
 Technology	Purpose
 HTML5	Structure and semantic layout
 CSS3	Styling, layout grids, and animations
 JavaScript	Interactive UI elements (basic level)
 No frameworks or libraries were used to keep this project lightweight and beginner-friendly.
 
-📂 Folder / File Structure:-
+## 📂 Folder / File Structure:-
 bash
 
 E-Learning-Website/
@@ -39,7 +41,7 @@ E-Learning-Website/
 ├── register.html         # Register form UI
 You can preview each of these pages in a web browser directly (no server setup required).
 
-📈 Future Enhancements:-
+## 📈 Future Enhancements:-
 These are suggested improvements for turning this into a full-fledged product:
 
 ✅ Backend integration (Node.js / Django / Firebase)
@@ -52,7 +54,7 @@ These are suggested improvements for turning this into a full-fledged product:
 
 ✅ Enhanced accessibility and responsiveness
 
-🙋‍♀️ Why This Project?-
+## 🙋‍♀️ Why This Project?-
 This project was created as part of a learning initiative to:
 
 Build a real-world styled multi-page website
